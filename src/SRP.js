@@ -19,7 +19,7 @@ function add(a, b){
 function multiply(a, b){
     return a*b;
 }
-module.exports=module.exports = {
+module.exports = {
     goodAddAndMultiply,
     addAndMultiply
 }
